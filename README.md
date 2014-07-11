@@ -69,14 +69,12 @@ at the corporate coffee shop I say 'wifi starbucks'.
 Building build-network-interfaces
 ---------------------------------
 
-You need an ocaml dev environment.  Follow the instructions here, otherwise build.sh won't work.
+You need an ocaml dev environment.  Follow the instructions here:
 
-https://bitbucket.org/yminsky/core-hello-world/src/db1679304db4a18af72e1c2e2e88966293eb2843/PREREQUISITES.md?at=default
+  https://bitbucket.org/yminsky/core-hello-world/src/db1679304db4a18af72e1c2e2e88966293eb2843/PREREQUISITES.md?at=default
 
-If you follow the prerequisites you should now have corebuild installed, which is a dependency of the compile.sh script.
+You should now have corebuild installed which is a dependency of the compile.sh script.
 
-Run compile.sh and you should now have a binary.
-
-If that fails probably just give up and start drinking.
+Run compile.sh and you should now have a binary.  If that fails probably just give up and start drinking.
 
 
