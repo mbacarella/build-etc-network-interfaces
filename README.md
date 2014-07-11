@@ -17,7 +17,6 @@ sorry, you're screwed.
 home | wintermute | wpa | the future is already here, it's just not very evenly distributed
 guest | virus-honeypot
 kaffe1668 | kaffe1668 | wpa | sheeplove
-
 starbucks | BTOpenzone-Starbucks | wep | 7f28f7ebfc
 ```
 
