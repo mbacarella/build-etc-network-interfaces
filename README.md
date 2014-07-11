@@ -59,10 +59,9 @@ iface wlan0_starbucks inet dhcp
 
 I use it in concert with a script called ~/bin/wifi (located here https://github.com/mbacarella/conf/blob/master/bin/wifi)
 
-When I'm at home I run 'wifi home' to connect to my awesome WPA secured network
-called, essid wintermute.  When I have guests over I tell them to connect to
-virus-honeypot, which is a completely open unsecured wifi network (it's actually totally
-harmless but going by the name, random passerbys don't know that).
+When I'm at home I run 'wifi home' to connect to my awesome WPA secured network, essid wintermute.
+When I have guests over I tell them to connect to virus-honeypot, which is a completely open
+unsecured wifi network (it's actually totally harmless but going by the name random passerbys don't know that).
 
 When I'm at the hipster coffee shop I do 'wifi kaffe1668' and when I'm
 at the corporate coffee shop I say 'wifi starbucks'.
