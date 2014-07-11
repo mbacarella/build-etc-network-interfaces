@@ -57,7 +57,7 @@ iface wlan0_starbucks inet dhcp
   wireless-channel auto
 ```
 
-I use it in concert with a script called ~/bin/wifi (located here)
+I use it in concert with a script called ~/bin/wifi (located here https://github.com/mbacarella/conf/blob/master/bin/wifi)
 
 When I'm at home I run 'wifi home' to connect to my awesome WPA secured network
 called, essid wintermute.  When I have guests over I tell them to connect to
