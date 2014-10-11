@@ -3,7 +3,7 @@ NetworkManager sucks
 
 I mean, it's probably as good as whatever Windows does for managing WiFi networks,
 but if you're a cranky UNIX beard like me having something that merely "just works" without
-having to run a bunch of bullshit arcane command is completely unacceptable.
+having to run a bunch of bullshit arcane commands is completely unacceptable.
 
 So, here's what I do.
 
